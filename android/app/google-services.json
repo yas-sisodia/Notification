@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "41051971600",
+    "project_id": "notification-92dc1",
+    "storage_bucket": "notification-92dc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41051971600:android:b860f7d759ea060588ea95",
+        "android_client_info": {
+          "package_name": "com.example.notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgiB7svK1CQ8em_3fPMbRg8edv5u_4Tq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
